@@ -12,6 +12,7 @@ The genes can found here. (link)
 - single cell RNAseq analysis - ibrutinib
 
 # Data availability
-Nadeu study https://zenodo.org/records/6631966 
+Single cell RNAseq from RT samples Nadeu study https://zenodo.org/records/6631966 
+Bulk RNAseq data from RT samples are available through kallisto table can be downoload from https://github.com/ferrannadeu/RichterTransformation/tree/main/bulkRNA-seq/kallisto
 RNAseq
 other
