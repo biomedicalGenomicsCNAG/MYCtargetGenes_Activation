@@ -1,0 +1,13 @@
+project_id,sample_name,patient_id,Diagnosis,Days,timepoint,Status,sex,Age_diagnosis,ighv_mutation,number_of_prior_treatments,TTFT,TTT,response_at_120,response,Tissue,Genetics_ibrutinib
+GSE111015,CLL1_d0,CLL1,CLL,000d,T1,pre-ibru,F,58,UCLL,2,3,39,7.8,R,PB,
+GSE111015,CLL1_d120,CLL1,CLL,120d,T3,ibru-ongoing,F,58,UCLL,2,3,39,7.8,R,PB,
+GSE111015,CLL5_d0,CLL5,CLL,000d,T1,pre-ibru,F,60,UCLL,5,44,126,82.8,NR,PB,
+GSE111015,CLL5_d30,CLL5,CLL,030d,T2,ibru-ongoing,F,60,UCLL,5,44,126,82.8,NR,PB,
+GSE111015,CLL5_d150,CLL5,CLL,120d,T3,ibru-ongoing,F,60,UCLL,5,44,126,82.8,NR,PB,
+GSE111015,CLL6_d0,CLL6,CLL,000d,T1,pre-ibru,M,64,UCLL,2,13,117,-58.7,R_partial,PB,
+GSE111015,CLL6_d30,CLL6,CLL,030d,T2,ibru-ongoing,M,64,UCLL,2,13,117,-58.7,R_partial,PB,
+GSE111015,CLL6_d120,CLL6,CLL,120d,T3,ibru-ongoing,M,64,UCLL,2,13,117,-58.7,R_partial,PB,
+GSE111015,CLL6_d280,CLL6,CLL,280d,T4,ibru-ongoing,M,64,UCLL,2,13,117,-58.7,R_partial,PB,
+GSE111015,CLL8_d0,CLL8,CLL,000d,T1,pre-ibru,M,48,UCLL,1,36,58,35,R,PB,
+GSE111015,CLL8_d30,CLL8,CLL,030d,T2,ibru-ongoing,M,48,UCLL,1,36,58,35,R,PB,
+GSE111015,CLL8_d120,CLL8,CLL,120d,T3,ibru-ongoing,M,48,UCLL,1,36,58,35,R,PB,
