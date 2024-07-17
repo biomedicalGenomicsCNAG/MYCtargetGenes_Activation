@@ -1,0 +1,13 @@
+"Group"	"Score"	"paired"
+"063-10-01TR"	"Pre treatment"	5.70248053984149	1
+"365-13-01TR"	"Pre treatment"	5.87674663558103	2
+"3299-03-02TR"	"Pre treatment"	5.67098160946422	3
+"019-0047-02TR"	"Pre treatment"	5.77154904466657	4
+"012-02-02TR"	"Pre treatment"	5.47231428255871	5
+"816-01-06TR"	"Pre treatment"	5.58603467516135	6
+"063-11-01TR"	"Resistance/Richter"	6.27898550250223	1
+"365-14-01TR"	"Resistance/Richter"	6.47231428255871	2
+"3299-02-02TR"	"Resistance/Richter"	5.73564722820754	3
+"019-17-01TR"	"Resistance/Richter"	5.85588774855846	4
+"012-21-01TR"	"Resistance/Richter"	6.47052864600969	5
+"816-07-01TR"	"Resistance/Richter"	6.29656339369487	6
