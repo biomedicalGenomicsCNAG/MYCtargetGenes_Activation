@@ -12,7 +12,7 @@ The genes can found here. (link)
 - single cell RNAseq analysis - ibrutinib
 
 # Data availability
-- The CLL phase files were downloaded from the CLL-map project Bulk and are available at https://cllmap.org/downloads.html under the row gene counts for the ICGC project. 
+- The CLL phase files were downloaded from the CLL-map project Bulk and are available at https://cllmap.org/downloads.html under the gene counts for the ICGC project. 
 
 - The bulk RNA-seq data from RT samples in the RS phase are available through a kallisto table, which can be downloaded from https://github.com/ferrannadeu/RichterTransformation/tree/main/bulkRNA-seq/kallisto. 
 
