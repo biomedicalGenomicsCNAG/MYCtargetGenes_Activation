@@ -12,9 +12,14 @@ The genes can found here. (link)
 - single cell RNAseq analysis - ibrutinib
 
 # Data availability
-RNAseq from ICGC https://cllmap.org/downloads.html 
-Bulk RNAseq data from RT samples are available through kallisto table can be downoload from https://github.com/ferrannadeu/RichterTransformation/tree/main/bulkRNA-seq/kallisto
+- The CLL phase files were downloaded from the CLL-map project Bulk and are available at https://cllmap.org/downloads.html under the row gene counts for the ICGC project. 
+
+- The bulk RNA-seq data from RT samples in the RS phase are available through a kallisto table, which can be downloaded from https://github.com/ferrannadeu/RichterTransformation/tree/main/bulkRNA-seq/kallisto. 
+
+- The scRNA-seq expression object from the Nadeu et al. study, along with their metadata, is available on https://zenodo.org/records/6631966.
+
+- The single-cell RNA-seq data under ibrutinib treatment were downloaded from GEO (GSE111015) as reported by Rendeiro et al. 
+
+- The generated process data are available ZENODO
 
 
-Single cell RNAseq from RT samples Nadeu study https://zenodo.org/records/6631966 
-other single cell from GEO
