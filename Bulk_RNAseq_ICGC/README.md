@@ -35,4 +35,3 @@ This repository contains an analysis pipeline for RNA-Seq data, focusing on the 
 ### Data Sources:
 - RNA-Seq counts and metadata can be downloaded from [CLLmap](https://cllmap.org/downloads.html).
 
-This pipeline provides comprehensive tools for the analysis of RNA-Seq data, from preprocessing to advanced statistical analyses and visualization.
