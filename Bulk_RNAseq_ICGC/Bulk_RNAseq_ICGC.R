@@ -82,6 +82,7 @@ row.names(scores) <- "MYC_activation"
 df <- data.frame(t(scores))
 df$Sample_ID <- row.names(df)
 
+write.csv(df, "df.csv") # needed for the correlation analysis
 # Load additional metadata
 cyto <- fread("cytogenetics_metadata.csv")
 annotation_all <- merge(annotation, cyto, by = "participant_id")
