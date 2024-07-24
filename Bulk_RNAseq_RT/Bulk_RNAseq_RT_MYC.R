@@ -38,6 +38,7 @@ vsd_CLLRT$HGNC.symbol <- ensembl$HGNC.symbol[match(vsd_CLLRT$EnsemblGeneStableID
 vsd_CLLRT <- vsd_CLLRT[!duplicated(vsd_CLLRT$HGNC.symbol),]
 rownames(vsd_CLLRT) <- vsd_CLLRT$HGNC.symbol
 vsd_CLLRT <- vsd_CLLRT[, -c(13:14)]
+write.csv(vsd_CLLRT, "data_vvt.csv", row.names = TRUE) # needed for correlation analysis
 
 # Load gene signature
 signature <- fread('MYCtargetgenes')
