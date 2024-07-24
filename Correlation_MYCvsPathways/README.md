@@ -29,8 +29,8 @@ This repository contains a script for correlation analysis using bulk RNA-seq da
    - Create a filtered dot plot highlighting significant correlations.
 
 ### Prerequisites:
-- The `df` table must be generated using the script `Bulk_RNAseq_ICGC.R`.
-- The `data_vvt` object must be produced using the script `Bulk_RNAseq_RT_MYC.R`.
+- The `df` table must be generated using the script `Bulk_RNAseq_ICGC.R`. The script and related files are available [here](https://github.com/biomedicalGenomicsCNAG/MYCtargetGenes_Activation/tree/main/Bulk_RNAseq_ICGC).
+- The `data_vvt` object must be produced using the script `Bulk_RNAseq_RT_MYC.R`. The script and related files are available [here](https://github.com/biomedicalGenomicsCNAG/MYCtargetGenes_Activation/tree/main/Bulk_RNAseq_RT).
 
 ### Required Files:
 - All required files are located within this folder.
@@ -42,5 +42,5 @@ This repository contains a script for correlation analysis using bulk RNA-seq da
 This pipeline provides tools for the analysis of bulk RNA-seq data using GSVA, from preprocessing to advanced statistical analyses and visualization.
 
 To run this script, ensure the following prerequisites are met:
-- The `df` table must be generated using the script `Bulk_RNAseq_ICGC.R`.
-- The `data_vvt` object must be produced using the script `Bulk_RNAseq_RT_MYC.R`.
+- The `df` table must be generated using the script `Bulk_RNAseq_ICGC.R`. The script and related files are available [here](https://github.com/biomedicalGenomicsCNAG/MYCtargetGenes_Activation/tree/main/Bulk_RNAseq_ICGC).
+- The `data_vvt` object must be produced using the script `Bulk_RNAseq_RT_MYC.R`. The script and related files are available [here](https://github.com/biomedicalGenomicsCNAG/MYCtargetGenes_Activation/tree/main/Bulk_RNAseq_RT).
